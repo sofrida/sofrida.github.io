@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Statistics Data from Our Research
 permalink: /stat/
 ---

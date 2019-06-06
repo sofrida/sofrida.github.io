@@ -72,6 +72,13 @@ lsi                 : false
 excerpt_separator   : "\n\n"
 incremental         : false
 
+# Markdown Processors
+rdiscount:
+  extensions        : []
+
+redcarpet:
+  extensions        : []
+  
 kramdown:
   # Use GitHub flavored markdown, including triple backtick fenced code blocks
   input: GFM
