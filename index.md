@@ -14,17 +14,16 @@ If our research is adopted, you will find technical details at the Defcon Confer
 
 
 # Q&A
-
+***
 
 ## What is soFrida?
 
 ddddd
 
-
+***
 ## How can Developers know if the app is vulnerable or not?
 
 We've sent email with bug report details.
-
 If they didn't get an email from us, the app is not vulnerable with bugs we've found.
 
 
