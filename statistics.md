@@ -18,8 +18,8 @@ The statistics based on the severity of the vulnerability are as follows, and wi
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 409px">
 <colgroup>
-<col style="width: 160px">
-<col style="width: 249px">
+<col style="width: 230px">
+<col style="width: 400px">
 </colgroup>
   <tr>
     <th class="tg-py60">Severtity</th>
@@ -54,8 +54,8 @@ The following table shows the results of the vulnerability analysis based on the
 </style>
 <table class="tg" style="undefined;table-layout: fixed; width: 409px">
 <colgroup>
-<col style="width: 160px">
-<col style="width: 249px">
+<col style="width: 230px">
+<col style="width: 400px">
 </colgroup>
   <tr>
     <th class="tg-py60">Download Count</th>
