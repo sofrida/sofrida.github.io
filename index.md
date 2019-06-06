@@ -12,8 +12,6 @@ Also, our research is now submitted to Defcon Talks and waiting for response.
 
 If our research is adopted, you will find technical details at the Defcon Conference.
 
-<p>
-
 
 # Q&A
 
