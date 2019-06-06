@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 ---
 
 We've found thousands of vulnerabilities in mobile apps that can leak sensitive data and manipulate back-end data over several months of research.
@@ -12,18 +12,18 @@ Also, our research is now submitted to Defcon Talks and waiting for response.
 
 If our research is adopted, you will find technical details at the Defcon Conference.
 
+<p>
 
 
+# Q&A
 
-__Q&A__
 
-
-- What is soFrida?
+## What is soFrida?
 
 ddddd
 
 
-- How can Developers know if the app is vulnerable or not?
+## How can Developers know if the app is vulnerable or not?
 
 We've sent email with bug report details.
 
