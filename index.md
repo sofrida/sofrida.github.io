@@ -1,16 +1,30 @@
 ---
 layout: default
 ---
-
+<p>
 <p>We've found thousands of vulnerabilities in mobile apps that can leak sensitive data and manipulate back-end data over several months of research.</p>
 
 <p>More than 2,000 vulnerable apps have been identified, and we have sent detailed reports of vulnerabilities to each developer of the app and are waiting for a response.</p>
 
 <p>We expect all vulnerabilities to be fixed, and we will release a list of all vulnerable apps within 30 days</p>
 
-<p>Also, our research is now submitted to Defcon Talks anㅇ waiting for response.</p> 
+<p>Also, our research is now submitted to Defcon Talks and waiting for response.</p> 
 
-<p>If our study is adopted, you will find the detailed technical details at the Defcon Conference.</p>
+<p>If our research is adopted, you will find technical details at the Defcon Conference.</p>
+
+
+# Q&A
+
+# What is soFrida?
+
+ddddd
+
+# How can Developers know if the app is vulnerable or not?
+
+We've sent email with bug report details.
+
+If they didn't get an email from us, the app is not vulnerable with bugs we've found.
+
 
 
 <!--<div id="gh-latest"></div>-->
