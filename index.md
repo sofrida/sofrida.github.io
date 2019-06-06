@@ -19,7 +19,7 @@ __Q&A__
 
 ddddd
 
--How can Developers know if the app is vulnerable or not?
+- How can Developers know if the app is vulnerable or not?
 
 We've sent email with bug report details.
 
