@@ -8,7 +8,7 @@ We do not provide detailed vulnerability report unless developers are identified
 
 If you want to know the details of the vulnerability, 
 
-__please contact us through the developer's e-mail address registered in the App Store.__
+**please contact us through the developer's e-mail address registered in the App Store**.
 
 Following information as contained in the form below will be helpful for you.
 
