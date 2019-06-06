@@ -16,7 +16,11 @@ The statistics based on the severity of the vulnerability are as follows, and wi
 .tg .tg-py60{font-weight:bold;background-color:#ffffc7;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 409px">
+<colgroup>
+<col style="width: 160px">
+<col style="width: 249px">
+</colgroup>
   <tr>
     <th class="tg-py60">Severtity</th>
     <th class="tg-py60">Number of Vulnerable Apps</th>
@@ -42,38 +46,44 @@ The following table shows the results of the vulnerability analysis based on the
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-baqh{text-align:center;vertical-align:top}
 .tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-lqy6{text-align:right;vertical-align:top}
 .tg .tg-py60{font-weight:bold;background-color:#ffffc7;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
 </style>
-<table class="tg">
+<table class="tg" style="undefined;table-layout: fixed; width: 409px">
+<colgroup>
+<col style="width: 160px">
+<col style="width: 249px">
+</colgroup>
   <tr>
-    <th class="tg-0pky">Download Count</th>
-    <th class="tg-0pky">Number of Vulnerable Apps</th>
+    <th class="tg-py60">Download Count</th>
+    <th class="tg-py60">Number of Vulnerable Apps</th>
   </tr>
   <tr>
-    <td class="tg-0pky">+100,000,000</td>
-    <td class="tg-0pky">000</td>
+    <td class="tg-c3ow">+100,000,000</td>
+    <td class="tg-dvpl">000</td>
   </tr>
   <tr>
-    <td class="tg-0pky">+50,000,000</td>
-    <td class="tg-0pky">000</td>
+    <td class="tg-c3ow">+50,000,000</td>
+    <td class="tg-dvpl">000</td>
   </tr>
   <tr>
-    <td class="tg-0pky">+10,000,000</td>
-    <td class="tg-0pky">000</td>
+    <td class="tg-c3ow">+10,000,000</td>
+    <td class="tg-dvpl">000</td>
   </tr>
   <tr>
-    <td class="tg-0pky">+5,000,000</td>
-    <td class="tg-0pky">000</td>
+    <td class="tg-baqh">+5,000,000</td>
+    <td class="tg-lqy6">000</td>
   </tr>
   <tr>
-    <td class="tg-0pky">+1,000,000</td>
-    <td class="tg-0pky">000</td>
+    <td class="tg-baqh">+1,000,000</td>
+    <td class="tg-lqy6">000</td>
   </tr>
   <tr>
-    <td class="tg-0pky">Others</td>
-    <td class="tg-0pky">000</td>
+    <td class="tg-baqh">Others</td>
+    <td class="tg-lqy6">000</td>
   </tr>
 </table>
 ***
