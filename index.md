@@ -1,16 +1,16 @@
 ---
-layout: default
+layout: page
 ---
-<p>
-<p>We've found thousands of vulnerabilities in mobile apps that can leak sensitive data and manipulate back-end data over several months of research.</p>
 
-<p>More than 2,000 vulnerable apps have been identified, and we have sent detailed reports of vulnerabilities to each developer of the app and are waiting for a response.</p>
+We've found thousands of vulnerabilities in mobile apps that can leak sensitive data and manipulate back-end data over several months of research.
 
-<p>We expect all vulnerabilities to be fixed, and we will release a list of all vulnerable apps within 30 days</p>
+More than 2,000 vulnerable apps have been identified, and we have sent detailed reports of vulnerabilities to each developer of the app and are waiting for a response.
 
-<p>Also, our research is now submitted to Defcon Talks and waiting for response.</p> 
+We expect all vulnerabilities to be fixed, and we will release a list of all vulnerable apps within 30 days
 
-<p>If our research is adopted, you will find technical details at the Defcon Conference.</p>
+Also, our research is now submitted to Defcon Talks and waiting for response.
+
+If our research is adopted, you will find technical details at the Defcon Conference.
 
 
 # Q&A
@@ -47,7 +47,7 @@ If they didn't get an email from us, the app is not vulnerable with bugs we've f
   {% endfor %}
 </div> -->
 
-<script>
+<!-- <script>
     /*var xmlhttp = new XMLHttpRequest();
     var userMetaURL = "https://api.github.com/users/yourusername/events";
     xmlhttp.onreadystatechange = function () {
@@ -72,4 +72,4 @@ If they didn't get an email from us, the app is not vulnerable with bugs we've f
     };
     xmlhttp.open("GET", userMetaURL, true);
     xmlhttp.send();*/
-  </script>
+  </script> -->
