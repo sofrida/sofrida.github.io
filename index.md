@@ -13,13 +13,13 @@ Also, our research is now submitted to Defcon Talks and waiting for response.
 If our research is adopted, you will find technical details at the Defcon Conference.
 
 
-# Q&A
+## Q&A
 
-# What is soFrida?
+## What is soFrida?
 
 ddddd
 
-# How can Developers know if the app is vulnerable or not?
+## How can Developers know if the app is vulnerable or not?
 
 We've sent email with bug report details.
 
