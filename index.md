@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 ---
 
 We've found thousands of vulnerabilities in mobile apps that can leak sensitive data and manipulate back-end data over several months of research.
