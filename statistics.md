@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: page
 title: Statistics Data from Our Research
-permalink: /stat/
+permalink: /statistics/
 ---
 
 We performed vulnerability analysis on millions of apps.
