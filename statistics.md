@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Statistics Data from Our Research
-permalink: /contact/
+permalink: /stat/
 ---
 
 We've fouund 2,700 vulnerable android apps.
