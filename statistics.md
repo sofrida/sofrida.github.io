@@ -7,13 +7,13 @@ permalink: /statistics/
 We performed vulnerability analysis on millions of apps.
 
 The statistics based on the severity of the vulnerability are as follows, and will be updated continuously.
-
+---
 | Severtity | Number of Vulnerable Apps |
 |-----------|---------------------------|
 | High      | 000                       |
 | Mid       | 000                       |
 | Low       | 000                       |
-
+---
 ***
 
 The following table shows the results of the vulnerability analysis based on the number of downloads.
@@ -27,3 +27,16 @@ The following table shows the results of the vulnerability analysis based on the
 | +1,000,000     | 000                       |
 | Others         | 000                       |
 
+
+|-----------------+------------+-----------------+----------------|
+| Default aligned |Left aligned| Center aligned  | Right aligned  |
+|-----------------|:-----------|:---------------:|---------------:|
+| First body part |Second cell | Third cell      | fourth cell    |
+| Second line     |foo         | **strong**      | baz            |
+| Third line      |quux        | baz             | bar            |
+|-----------------+------------+-----------------+----------------|
+| Second body     |            |                 |                |
+| 2 line          |            |                 |                |
+|=================+============+=================+================|
+| Footer row      |            |                 |                |
+|-----------------+------------+-----------------+----------------|
