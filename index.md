@@ -18,7 +18,18 @@ If our research is adopted, you will find technical details at the Defcon Confer
 
 ## What is soFrida?
 
-ddddd
+soFrida, is a dynamic app analysis tool that automatically extracts SOMETHING_IMPORTANT used in Android Apps.
+
+***
+## How Dangerous is vulnerability?
+
+We classified vulnerabilities into three levels.
+
+In apps rated "High", an attacker could gain unauthorized access to backend data or manipulate data.
+
+In apps rated "Mid", the attacker had limited access to backend data.
+
+In apps rated "Low," an attacker could not directly influence an app, but could expose information or make an indirect service call.
 
 ***
 ## How can Developers know if the app is vulnerable or not?
