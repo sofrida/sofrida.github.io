@@ -18,15 +18,42 @@ The statistics based on the severity of the vulnerability are as follows, and wi
 
 The following table shows the results of the vulnerability analysis based on the number of downloads.
 
-| Download Count | Number of Vulnerable Apps |
-|----------------|---------------------------|
-| +100,000,000   | 000                       |
-| +50,000,000    | 000                       |
-| +10,000,000    | 000                       |
-| +5,000,000     | 000                       |
-| +1,000,000     | 000                       |
-| Others         | 000                       |
-
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-0pky{border-color:inherit;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-0pky">Download Count</th>
+    <th class="tg-0pky">Number of Vulnerable Apps</th>
+  </tr>
+  <tr>
+    <td class="tg-0pky">+100,000,000</td>
+    <td class="tg-0pky">000</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">+50,000,000</td>
+    <td class="tg-0pky">000</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">+10,000,000</td>
+    <td class="tg-0pky">000</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">+5,000,000</td>
+    <td class="tg-0pky">000</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">+1,000,000</td>
+    <td class="tg-0pky">000</td>
+  </tr>
+  <tr>
+    <td class="tg-0pky">Others</td>
+    <td class="tg-0pky">000</td>
+  </tr>
+</table>
 ***
 
 
