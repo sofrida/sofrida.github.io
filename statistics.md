@@ -56,7 +56,7 @@ The statistics based on the severity of the vulnerability are as follows, and wi
   <td class="tg-lqy6">234</td>
 </tr>
 <tr>
-  <td class="tg-z6qf" colspan="2">date of collection : 04/04/2019</td>
+  <td class="tg-z6qf" style="text-align:right;" colspan="2">date of collection : 04/04/2019</td>
 </tr>
 </table>
 ***
