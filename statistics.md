@@ -4,9 +4,7 @@ title: Statistics
 permalink: /statistics/
 ---
 
-Till now, we’ve analyzed 4 million android apps and found 2,700+ vulnerable moblie cloud apps.
-
-The statistics based on the severity of the vulnerability are as follows, and will be updated continuously.
+Till now, we’ve analyzed 4 million android apps and found 2,700+ vulnerable moblie cloud apps. The statistics based on the severity of the vulnerability are as follows, and will be updated continuously.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -18,7 +16,7 @@ The statistics based on the severity of the vulnerability are as follows, and wi
 .tg .tg-py60{font-weight:bold;background-color:#ffffc7;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 409px">
+<table class="tg" style="undefined;table-layout: fixed; width: 409px; margin-left: auto; margin-right: auto">
 <colgroup>
 <col style="width: 160px">
 <col style="width: 250px">
