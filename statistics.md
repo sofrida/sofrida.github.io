@@ -101,7 +101,7 @@ We classified vulnerabilities into three levels.
   <td class="tg-lqy6">234</td>
 </tr>
 <tr>
-  <td class="tg-z6qf" style="text-align:right;" colspan="2">date of classfied : June 8, 2019 09:00 KST</td>
+  <td class="tg-z6qf" style="text-align:right;" colspan="2">date of classfication : June 8, 2019 09:00 KST</td>
 </tr>
 </table>
 ***
