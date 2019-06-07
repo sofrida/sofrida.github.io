@@ -7,7 +7,7 @@ permalink: /contact/
 If you are received our notification mail, you can request us the detailed vulnerability report for your app.
  
 
-##Please include the following information in the email :
+## Please include the following information in the email:
 - Developer Information (Name, Department, etc)
 - App Information (Pkg ID. Ex:com.abc.def)
 
