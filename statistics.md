@@ -29,32 +29,36 @@ The statistics based on the severity of the vulnerability are as follows, and wi
   </tr>
   <tr>
     <td class="tg-c3ow">+100,000,000</td>
-    <td class="tg-dvpl">000</td>
+    <td class="tg-dvpl">7</td>
   </tr>
   <tr>
     <td class="tg-c3ow">+50,000,000</td>
-    <td class="tg-dvpl">000</td>
+    <td class="tg-dvpl">4</td>
   </tr>
   <tr>
     <td class="tg-c3ow">+10,000,000</td>
-    <td class="tg-dvpl">000</td>
+    <td class="tg-dvpl">51</td>
   </tr>
   <tr>
     <td class="tg-baqh">+5,000,000</td>
-    <td class="tg-lqy6">000</td>
+    <td class="tg-lqy6">38</td>
   </tr>
   <tr>
     <td class="tg-baqh">+1,000,000</td>
-    <td class="tg-lqy6">000</td>
+    <td class="tg-lqy6">86</td>
   </tr>
   <tr>
     <td class="tg-baqh">Others</td>
-    <td class="tg-lqy6">000</td>
+    <td class="tg-lqy6">48</td>
   </tr>
+  <tr>
+  <td class="tg-baqh">Total</td>
+  <td class="tg-lqy6">234</td>
+</tr>
 </table>
 ***
 
-Among 2,700+ vulnerable apps, 300+ apps have been classified now. The statistics based on the severity of the vulnerability are as follows, and it will be updated continuously.
+Among 2,700+ vulnerable apps, 200+ apps have been classified now. The statistics based on the severity of the vulnerability are as follows, and it will be updated continuously.
 
 We classified vulnerabilities into three levels.
 - In apps rated as “High”, an attacker can gain the unauthorized access to backend data or can manipulate data.
@@ -81,15 +85,15 @@ We classified vulnerabilities into three levels.
   </tr>
   <tr>
     <td class="tg-c3ow">high</td>
-    <td class="tg-dvpl">000</td>
+    <td class="tg-dvpl">41</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Mid</td>
-    <td class="tg-dvpl">000</td>
+    <td class="tg-dvpl">11</td>
   </tr>
   <tr>
     <td class="tg-c3ow">Low</td>
-    <td class="tg-dvpl">000</td>
+    <td class="tg-dvpl">181</td>
   </tr>
 </table>
 ***
