@@ -46,7 +46,7 @@ Till now, we’ve analyzed 4 million android apps and found 2,700+ vulnerable mo
     <td class="tg-lqy6">318</td>
   </tr>
   <tr>
-    <td class="tg-baqh">Others</td>
+    <td class="tg-baqh">&lt;1,000,000</td>
     <td class="tg-lqy6">2172</td>
   </tr>
   <tr>
@@ -54,7 +54,7 @@ Till now, we’ve analyzed 4 million android apps and found 2,700+ vulnerable mo
   <td class="tg-lqy6">2700</td>
 </tr>
 <tr>
-  <td class="tg-z6qf" style="text-align:right;" colspan="2">date of collection : 04/04/2019 09:55 KST</td>
+  <td class="tg-z6qf" style="text-align:right;" colspan="2">date of collection : April 4, 2019 09:55 KST</td>
 </tr>
 </table>
 ***
@@ -99,6 +99,9 @@ We classified vulnerabilities into three levels.
   <tr>
   <td class="tg-baqh">Total</td>
   <td class="tg-lqy6">234</td>
+</tr>
+<tr>
+  <td class="tg-z6qf" style="text-align:right;" colspan="2">date of classfied : June 8, 2019 09:00 KST</td>
 </tr>
 </table>
 ***
