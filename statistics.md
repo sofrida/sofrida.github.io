@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Statistics Data from Our Research
+title: Statistics
 permalink: /statistics/
 ---
 

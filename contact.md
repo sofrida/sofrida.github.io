@@ -11,7 +11,7 @@ If you are received our notification mail, you can request us the detailed vulne
 - Developer Information (Name, Department, etc)
 - App Information (Pkg ID. Ex:com.abc.def)
 
-Please contact us through the developer’s e-mail address registered in the App Store.
+Contact us through the developer’s e-mail address registered in the App Store.
  
 If you have any questions please contact us. Once the developer's email is verified, we will reply back as soon as possible with the detailed report.
 
