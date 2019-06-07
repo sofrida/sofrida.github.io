@@ -2,7 +2,7 @@
 layout: page
 ---
 
-<p>
+
 soFrida is an automatic analysis tool, which breakdown vulnerabilities in the moblie cloud app.
 
 We have analyzed 4 million Android apps and found 2,700+ vulnerable apps that can leak sensitive personal information data and manipulate back-end data.
