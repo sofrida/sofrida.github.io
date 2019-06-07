@@ -54,7 +54,7 @@ Till now, we’ve analyzed 4 million android apps and found 2,700+ vulnerable mo
   <td class="tg-lqy6">2700</td>
 </tr>
 <tr>
-  <td class="tg-z6qf" style="text-align:right;" colspan="2">date of collection : 04/04/2019</td>
+  <td class="tg-z6qf" style="text-align:right;" colspan="2">date of collection : 04/04/2019 09:55 KST</td>
 </tr>
 </table>
 ***
