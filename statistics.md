@@ -4,7 +4,7 @@ title: Statistics
 permalink: /statistics/
 ---
 
-Till now, we’ve analyzed 4 million android apps and found 2,700+ vulnerable moblie cloud apps. The statistics based on the severity of the vulnerability are as follows, and will be updated continuously.
+Till now, we’ve analyzed 4 million android apps and found 2,700+ vulnerable moblie cloud apps.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -27,31 +27,31 @@ Till now, we’ve analyzed 4 million android apps and found 2,700+ vulnerable mo
   </tr>
   <tr>
     <td class="tg-c3ow">+100,000,000</td>
-    <td class="tg-dvpl">7</td>
+    <td class="tg-dvpl">12</td>
   </tr>
   <tr>
     <td class="tg-c3ow">+50,000,000</td>
-    <td class="tg-dvpl">4</td>
+    <td class="tg-dvpl">12</td>
   </tr>
   <tr>
     <td class="tg-c3ow">+10,000,000</td>
-    <td class="tg-dvpl">51</td>
+    <td class="tg-dvpl">98</td>
   </tr>
   <tr>
     <td class="tg-baqh">+5,000,000</td>
-    <td class="tg-lqy6">38</td>
+    <td class="tg-lqy6">88</td>
   </tr>
   <tr>
     <td class="tg-baqh">+1,000,000</td>
-    <td class="tg-lqy6">86</td>
+    <td class="tg-lqy6">318</td>
   </tr>
   <tr>
     <td class="tg-baqh">Others</td>
-    <td class="tg-lqy6">48</td>
+    <td class="tg-lqy6">2172</td>
   </tr>
   <tr>
   <td class="tg-baqh">Total</td>
-  <td class="tg-lqy6">234</td>
+  <td class="tg-lqy6">2700</td>
 </tr>
 <tr>
   <td class="tg-z6qf" style="text-align:right;" colspan="2">date of collection : 04/04/2019</td>
@@ -75,7 +75,7 @@ We classified vulnerabilities into three levels.
 .tg .tg-py60{font-weight:bold;background-color:#ffffc7;border-color:inherit;text-align:center;vertical-align:top}
 .tg .tg-dvpl{border-color:inherit;text-align:right;vertical-align:top}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 409px">
+<table class="tg" style="undefined;table-layout: fixed; width: 409px; margin-left: auto; margin-right: auto">
 <colgroup>
 <col style="width: 160px">
 <col style="width: 250px">
@@ -85,7 +85,7 @@ We classified vulnerabilities into three levels.
     <th class="tg-py60">Number of Vulnerable Apps</th>
   </tr>
   <tr>
-    <td class="tg-c3ow">high</td>
+    <td class="tg-c3ow">High</td>
     <td class="tg-dvpl">41</td>
   </tr>
   <tr>
@@ -94,8 +94,12 @@ We classified vulnerabilities into three levels.
   </tr>
   <tr>
     <td class="tg-c3ow">Low</td>
-    <td class="tg-dvpl">181</td>
+    <td class="tg-dvpl">182</td>
   </tr>
+  <tr>
+  <td class="tg-baqh">Total</td>
+  <td class="tg-lqy6">234</td>
+</tr>
 </table>
 ***
 
