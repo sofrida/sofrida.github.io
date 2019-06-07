@@ -18,7 +18,13 @@ If our research is adopted, you will find technical details at the Defcon Confer
 
 ## What is soFrida?
 
-soFrida, is a dynamic app analysis tool that automatically extracts SOMETHING_IMPORTANT used in Android Apps.
+soFrida is an automatic analysis tool, which breakdown vulnerabilities in the moblie cloud app.
+
+We have analyzed 4 million Android apps and found 2,700+ vulnerable apps that can leak sensitive personal information data and manipulate back-end data.
+
+Today, we will be releasing a notification to each developer of the vulnerable apps. We will release the list of vulnerable apps through the site after 2 weeks, and the detailed report will be available in another 30 days after the name of the app is relaesed.
+
+And, in near future, we will also release our soFrida tool, through this site.
 
 ***
 ## How Dangerous is vulnerability?

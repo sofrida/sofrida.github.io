@@ -4,18 +4,17 @@ title: How to request a detailed report?
 permalink: /contact/
 ---
 
-We do not provide detailed vulnerability report unless developers are identified.
+If you are received our notification mail, you can request us the detailed vulnerability report for your app.
+ 
 
-If you want to know the details of the vulnerability, 
+##Please include the following information in the email :
+- Developer Information (Name, Department, etc)
+- App Information (Pkg ID. Ex:com.abc.def)
 
-**please contact us through the developer's e-mail address registered in the App Store**.
-
-Following information as contained in the form below will be helpful for you.
-
- - Developer Information (Name, Department )
- - App Information (Pkg ID. Ex:com.abc.def)
- - Any questions are welcome
-
-Once developers email verified, we will reply you asap with detailed vulnerability report. 
+Please contact us through the developer’s e-mail address registered in the App Store.
+ 
+If you have any questions please contact us. Once the developer's email is verified, we will reply back as soon as possible with the detailed report.
 
 [Request_Detailed_Report](mailto://june_park@korea.ac.kr)
+
+
