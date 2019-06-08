@@ -4,7 +4,7 @@ title: How to request a detailed report?
 permalink: /contact/
 ---
 
-If you are received our notification mail, you can request us the detailed vulnerability report for your app.
+If you received our notification mail, you can request us the detailed vulnerability report for your app.
  
 
 ## Please include the following information in the email:

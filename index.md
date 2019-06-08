@@ -7,7 +7,7 @@ soFrida is an automatic analysis tool, which breakdown vulnerabilities in the mo
 
 We have analyzed 4 million Android apps and found 2,700+ vulnerable apps that can leak sensitive personal information data and manipulate back-end data.
 
-Today(June 8, 2019 09:00 KST), we will be releasing a notification to each developer of the vulnerable apps. We will release the list of vulnerable apps through the site after 2 weeks, and the detailed report will be available in another 30 days after the name of the app is relaesed.
+Today(June 8, 2019 09:00 KST), we sent a notification to each developer of the vulnerable apps. We will release the list of vulnerable apps through the site after 2 weeks, and the detailed report will be available in another 30 days after the name of the app is relaesed.
 
 And, in near future, we will also release our soFrida tool, through this site.
 
