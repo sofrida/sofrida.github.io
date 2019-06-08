@@ -64,7 +64,7 @@ Among 2,700+ vulnerable apps, 200+ apps have been classified now. The statistics
 We classified vulnerabilities into three levels.
 - In apps rated as “High”, an attacker can gain the unauthorized access to backend data or can manipulate data.
 - In apps rated as “Mid”, the attacker have the limited access to backend data.
-- In apps rated as “Low,” an attacker can't directly influence the app, but can expose information or make an indirect service call.
+- In apps rated as “Low,” an attacker can’t directly influence the app, but can collect some useful information or make an indirect service call.
 
 
 <style type="text/css">
