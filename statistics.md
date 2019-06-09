@@ -79,7 +79,7 @@ We classified vulnerabilities into three levels.
 .tg .tg-uqai{font-weight:bold;background-color:#ffffc7;text-align:center}
 .tg .tg-quj4{border-color:inherit;text-align:right}
 </style>
-<table class="tg" style="undefined;table-layout: fixed; width: 446px">
+<table class="tg" style="undefined;table-layout: fixed; width: 446px; margin-left: auto; margin-right: auto">
 <colgroup>
 <col style="width: 83px">
 <col style="width: 165px">
