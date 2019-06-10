@@ -93,7 +93,7 @@ We classified vulnerabilities into three levels.
   <tr>
     <td class="tg-uys7">High</td>
     <td class="tg-quj4">43&nbsp;&nbsp;</td>
-    <td class="tg-0ord">+100,000,000 : 5&nbsp;&nbsp;<br>+  50,000,000 : 1&nbsp;&nbsp;<br>+ 10,000,000 : 7&nbsp;&nbsp;<br>+5,000,000 : 2&nbsp;&nbsp;<br>+ 1,000,000 : 9&nbsp;&nbsp;<br>&lt; 1,000,000 : 17&nbsp;&nbsp;</td>
+    <td class="tg-0ord">+100,000,000 : 5&nbsp;&nbsp;<br>+  50,000,000 : 1&nbsp;&nbsp;<br>+ 10,000,000 : 7&nbsp;&nbsp;<br>+5,000,000 : 2&nbsp;&nbsp;<br>+ 1,000,000 : 11&nbsp;&nbsp;<br>&lt; 1,000,000 : 17&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td class="tg-uys7">Mid</td>
