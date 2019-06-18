@@ -92,25 +92,25 @@ We classified vulnerabilities into three levels.
   </tr>
   <tr>
     <td class="tg-uys7">High</td>
-    <td class="tg-quj4">43&nbsp;&nbsp;</td>
-    <td class="tg-0ord">+100,000,000 : 5&nbsp;&nbsp;<br>+  50,000,000 : 1&nbsp;&nbsp;<br>+ 10,000,000 : 7&nbsp;&nbsp;<br>+5,000,000 : 2&nbsp;&nbsp;<br>+ 1,000,000 : 11&nbsp;&nbsp;<br>&lt; 1,000,000 : 17&nbsp;&nbsp;</td>
+    <td class="tg-quj4">51&nbsp;&nbsp;</td>
+    <td class="tg-0ord">+100,000,000 : 5&nbsp;&nbsp;<br>+  50,000,000 : 1&nbsp;&nbsp;<br>+ 10,000,000 : 7&nbsp;&nbsp;<br>+5,000,000 : 2&nbsp;&nbsp;<br>+ 1,000,000 : 13&nbsp;&nbsp;<br>&lt; 1,000,000 : 23&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td class="tg-uys7">Mid</td>
-    <td class="tg-quj4">11&nbsp;&nbsp;</td>
-    <td class="tg-0ord">+,50,000,000 : 1&nbsp;&nbsp;<br>+ 10,000,000 : 5&nbsp;&nbsp;<br>+ 1,000,000 : 5&nbsp;&nbsp;</td>
+    <td class="tg-quj4">13&nbsp;&nbsp;</td>
+    <td class="tg-0ord">+,50,000,000 : 1&nbsp;&nbsp;<br>+ 10,000,000 : 5&nbsp;&nbsp;<br>+ 1,000,000 : 6&nbsp;&nbsp;<br>&lt; 1,000,000 : 1&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td class="tg-uys7">Low</td>
-    <td class="tg-quj4">182&nbsp;&nbsp;</td>
-    <td class="tg-0ord">+100,000,000 : 2&nbsp;&nbsp;<br>+,50,000,000 : 2&nbsp;&nbsp;<br>+ 10,000,000 : 39&nbsp;&nbsp;<br>+5,000,000 : 36&nbsp;&nbsp;<br>+ 1,000,000 : 72&nbsp;&nbsp;<br>&lt; 1,000,000 : 31&nbsp;&nbsp;<br></td>
+    <td class="tg-quj4">183&nbsp;&nbsp;</td>
+    <td class="tg-0ord">+100,000,000 : 2&nbsp;&nbsp;<br>+,50,000,000 : 2&nbsp;&nbsp;<br>+ 10,000,000 : 39&nbsp;&nbsp;<br>+5,000,000 : 36&nbsp;&nbsp;<br>+ 1,000,000 : 72&nbsp;&nbsp;<br>&lt; 1,000,000 : 32&nbsp;&nbsp;<br></td>
   </tr>
   <tr>
     <td class="tg-s6z2">Total</td>
-    <td class="tg-s6z2" colspan="2">236</td>
+    <td class="tg-s6z2" colspan="2">247</td>
   </tr>
   <tr>
-    <td class="tg-z6qf" colspan="3">date of classification : June 11, 2019 02:46 KST&nbsp;&nbsp;</td>
+    <td class="tg-z6qf" colspan="3">date of classification : June 18, 2019 16:35 KST&nbsp;&nbsp;</td>
   </tr>
 </table>
 ***
