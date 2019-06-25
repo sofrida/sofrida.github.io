@@ -92,8 +92,8 @@ We classified vulnerabilities into three levels.
   </tr>
   <tr>
     <td class="tg-uys7">High</td>
-    <td class="tg-quj4">51&nbsp;&nbsp;</td>
-    <td class="tg-0ord">+100,000,000 : 5&nbsp;&nbsp;<br>+  50,000,000 : 1&nbsp;&nbsp;<br>+ 10,000,000 : 7&nbsp;&nbsp;<br>+5,000,000 : 2&nbsp;&nbsp;<br>+ 1,000,000 : 13&nbsp;&nbsp;<br>&lt; 1,000,000 : 23&nbsp;&nbsp;</td>
+    <td class="tg-quj4">53&nbsp;&nbsp;</td>
+    <td class="tg-0ord">+100,000,000 : 5&nbsp;&nbsp;<br>+  50,000,000 : 1&nbsp;&nbsp;<br>+ 10,000,000 : 9 &nbsp;&nbsp;<br>+5,000,000 : 2&nbsp;&nbsp;<br>+ 1,000,000 : 13&nbsp;&nbsp;<br>&lt; 1,000,000 : 23&nbsp;&nbsp;</td>
   </tr>
   <tr>
     <td class="tg-uys7">Mid</td>
@@ -102,15 +102,15 @@ We classified vulnerabilities into three levels.
   </tr>
   <tr>
     <td class="tg-uys7">Low</td>
-    <td class="tg-quj4">183&nbsp;&nbsp;</td>
-    <td class="tg-0ord">+100,000,000 : 2&nbsp;&nbsp;<br>+,50,000,000 : 2&nbsp;&nbsp;<br>+ 10,000,000 : 39&nbsp;&nbsp;<br>+5,000,000 : 36&nbsp;&nbsp;<br>+ 1,000,000 : 72&nbsp;&nbsp;<br>&lt; 1,000,000 : 32&nbsp;&nbsp;<br></td>
+    <td class="tg-quj4">187&nbsp;&nbsp;</td>
+    <td class="tg-0ord">+100,000,000 : 2&nbsp;&nbsp;<br>+,50,000,000 : 2&nbsp;&nbsp;<br>+ 10,000,000 : 43&nbsp;&nbsp;<br>+5,000,000 : 36&nbsp;&nbsp;<br>+ 1,000,000 : 72&nbsp;&nbsp;<br>&lt; 1,000,000 : 32&nbsp;&nbsp;<br></td>
   </tr>
   <tr>
     <td class="tg-s6z2">Total</td>
-    <td class="tg-s6z2" colspan="2">247</td>
+    <td class="tg-s6z2" colspan="2">253</td>
   </tr>
   <tr>
-    <td class="tg-z6qf" colspan="3">date of classification : June 18, 2019 16:35 KST&nbsp;&nbsp;</td>
+    <td class="tg-z6qf" colspan="3">date of classification : June 25, 2019 09:13 KST&nbsp;&nbsp;</td>
   </tr>
 </table>
 ***
