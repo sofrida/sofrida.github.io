@@ -4,7 +4,7 @@ title: Statistics
 permalink: /statistics/
 ---
 
-Till now, we’ve analyzed 4 million android apps and found 2,700+ vulnerable moblie cloud apps.
+Till now, we’ve analyzed 4 million android apps and found 2,700+ potentially vulnerable moblie cloud apps.
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -23,7 +23,7 @@ Till now, we’ve analyzed 4 million android apps and found 2,700+ vulnerable mo
 </colgroup>
   <tr>
     <th class="tg-py60">Download Count</th>
-    <th class="tg-py60">Number of Vulnerable Apps</th>
+    <th class="tg-py60">Number of potentially Vulnerable Apps</th>
   </tr>
   <tr>
     <td class="tg-c3ow">+100,000,000</td>
