@@ -4,55 +4,54 @@ title: Timeline
 permalink: /timeline/
 ---
 
-<!doctype html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    
-    <style>
-    .cd-timeline.svelte-1t2uafz .svelte-1t2uafz,.cd-timeline.svelte-1t2uafz .svelte-1t2uafz::after,.cd-timeline.svelte-1t2uafz .svelte-1t2uafz::before{-webkit-box-sizing:border-box;box-sizing:border-box}.cd-timeline.svelte-1t2uafz{font-size:1.6rem;font-family:"Droid Serif", serif;color:#7f8c97;background-color:#e9f0f5}.cd-timeline.svelte-1t2uafz a{color:#acb7c0;text-decoration:none}.cd-timeline.svelte-1t2uafz img{max-width:100%}.cd-timeline.svelte-1t2uafz h1,h2{font-family:"Open Sans", sans-serif;font-weight:bold}.cd-timeline.svelte-1t2uafz{overflow:hidden;margin:2em auto}.cd-timeline__container.svelte-1t2uafz{position:relative;width:90%;max-width:1170px;margin:0 auto;padding:2em 0}.cd-timeline__container.svelte-1t2uafz::before{content:'';position:absolute;top:0;left:18px;height:100%;width:4px;background:#d7e4ed}@media only screen and (min-width: 1170px){.cd-timeline.svelte-1t2uafz{margin-top:3em;margin-bottom:3em}.cd-timeline__container.svelte-1t2uafz::before{left:50%;margin-left:-2px}}.cd-timeline__block.svelte-1t2uafz{position:relative;margin:2em 0}.cd-timeline__block.svelte-1t2uafz:after{content:"";display:table;clear:both}.cd-timeline__block.svelte-1t2uafz:first-child{margin-top:0}.cd-timeline__block.svelte-1t2uafz:last-child{margin-bottom:0}@media only screen and (min-width: 1170px){.cd-timeline__block.svelte-1t2uafz{margin:4em 0}}.cd-timeline__img.svelte-1t2uafz{position:absolute;top:0;left:0;width:40px;height:40px;border-radius:50%;-webkit-box-shadow:0 0 0 4px white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);box-shadow:0 0 0 4px white, inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05)}.cd-timeline__img.svelte-1t2uafz{background:#75ce66}@media only screen and (min-width: 1170px){.cd-timeline__img.svelte-1t2uafz{width:60px;height:60px;left:50%;margin-left:-30px;-webkit-transform:translateZ(0);transform:translateZ(0)}}@-webkit-keyframes svelte-1t2uafz-cd-bounce-1{0%{opacity:0;-webkit-transform:scale(0.5);transform:scale(0.5)}60%{opacity:1;-webkit-transform:scale(1.2);transform:scale(1.2)}100%{-webkit-transform:scale(1);transform:scale(1)}}@keyframes svelte-1t2uafz-cd-bounce-1{0%{opacity:0;-webkit-transform:scale(0.5);transform:scale(0.5)}60%{opacity:1;-webkit-transform:scale(1.2);transform:scale(1.2)}100%{-webkit-transform:scale(1);transform:scale(1)}}.cd-timeline__content.svelte-1t2uafz{position:relative;margin-left:60px;background:white;border-radius:0.25em;padding:1em;-webkit-box-shadow:0 3px 0 #d7e4ed;box-shadow:0 3px 0 #d7e4ed}.cd-timeline__content.svelte-1t2uafz:after{content:"";display:table;clear:both}.cd-timeline__content.svelte-1t2uafz::before{content:'';position:absolute;top:16px;right:100%;height:0;width:0;border:7px solid transparent;border-right:7px solid white}.cd-timeline__content.svelte-1t2uafz h2.svelte-1t2uafz{color:#303e49}.cd-timeline__content.svelte-1t2uafz p,.cd-timeline__date.svelte-1t2uafz{font-size:1.3rem}.cd-timeline__content.svelte-1t2uafz p{margin:1em 0;line-height:1.6}.cd-timeline__date.svelte-1t2uafz{display:inline-block}.cd-timeline__date.svelte-1t2uafz{float:left;padding:.8em 0;opacity:.7}@media only screen and (min-width: 768px){.cd-timeline__content.svelte-1t2uafz h2.svelte-1t2uafz{font-size:2rem}.cd-timeline__content.svelte-1t2uafz p{font-size:1.6rem}.cd-timeline__date.svelte-1t2uafz{font-size:1.4rem}}@media only screen and (min-width: 1170px){.cd-timeline__content.svelte-1t2uafz{margin-left:0;padding:1.6em;width:45%;-webkit-transform:translateZ(0);transform:translateZ(0)}.cd-timeline__content.svelte-1t2uafz::before{top:24px;left:100%;border-color:transparent;border-left-color:white}.cd-timeline__date.svelte-1t2uafz{position:absolute;width:100%;left:122%;top:6px;font-size:1.6rem}.cd-timeline__block.svelte-1t2uafz:nth-child(even) .cd-timeline__content.svelte-1t2uafz{float:right}.cd-timeline__block.svelte-1t2uafz:nth-child(even) .cd-timeline__content.svelte-1t2uafz::before{top:24px;left:auto;right:100%;border-color:transparent;border-right-color:white}.cd-timeline__block.svelte-1t2uafz:nth-child(even) .cd-timeline__date.svelte-1t2uafz{left:auto;right:122%;text-align:right}}@-webkit-keyframes svelte-1t2uafz-cd-bounce-2{0%{opacity:0;-webkit-transform:translateX(-100px);transform:translateX(-100px)}60%{opacity:1;-webkit-transform:translateX(20px);transform:translateX(20px)}100%{-webkit-transform:translateX(0);transform:translateX(0)}}@keyframes svelte-1t2uafz-cd-bounce-2{0%{opacity:0;-webkit-transform:translateX(-100px);transform:translateX(-100px)}60%{opacity:1;-webkit-transform:translateX(20px);transform:translateX(20px)}100%{-webkit-transform:translateX(0);transform:translateX(0)}}@-webkit-keyframes svelte-1t2uafz-cd-bounce-2-inverse{0%{opacity:0;-webkit-transform:translateX(100px);transform:translateX(100px)}60%{opacity:1;-webkit-transform:translateX(-20px);transform:translateX(-20px)}100%{-webkit-transform:translateX(0);transform:translateX(0)}}@keyframes svelte-1t2uafz-cd-bounce-2-inverse{0%{opacity:0;-webkit-transform:translateX(100px);transform:translateX(100px)}60%{opacity:1;-webkit-transform:translateX(-20px);transform:translateX(-20px)}100%{-webkit-transform:translateX(0);transform:translateX(0)}}
-    </style>
-</head>
-<body><section class="cd-timeline js-cd-timeline svelte-1t2uafz">
-    <div class="cd-timeline__container svelte-1t2uafz">
-        <div class="cd-timeline__block js-cd-block svelte-1t2uafz">
-            <div class="cd-timeline__img cd-timeline__img--movie js-cd-img svelte-1t2uafz">
-            </div>
-            <div class="cd-timeline__content js-cd-content svelte-1t2uafz">
-                <h2 class="svelte-1t2uafz">ECMAScript 1</h2>
-                <p>First edition.</p>
+## June 7, 2019
 
-                <span class="cd-timeline__date svelte-1t2uafz">1997-06</span>
-            </div>
-        </div><div class="cd-timeline__block js-cd-block svelte-1t2uafz">
-            <div class="cd-timeline__img cd-timeline__img--movie js-cd-img svelte-1t2uafz">
-            </div>
-            <div class="cd-timeline__content js-cd-content svelte-1t2uafz">
-                <h2 class="svelte-1t2uafz">ECMAScript 2</h2>
-                <p>Editorial changes to keep the specification fully aligned with ISO/IEC 16262 international standard.</p>
+We identified 2,700 Android applications which are potentially vulnerable.
+236 Applications has been classfied as actually vulernable.
 
-                <span class="cd-timeline__date svelte-1t2uafz">1998-06</span>
-            </div>
-        </div><div class="cd-timeline__block js-cd-block svelte-1t2uafz">
-            <div class="cd-timeline__img cd-timeline__img--movie js-cd-img svelte-1t2uafz">
-            </div>
-            <div class="cd-timeline__content js-cd-content svelte-1t2uafz">
-                <h2 class="svelte-1t2uafz">ECMAScript 3</h2>
-                <p>Added regular expressions, better string handling, new control statements, try/catch exception handling, tighter definition of errors, formatting for numeric output and other enhancements.</p>
+## June 8, 2019, 09:00
 
-                <span class="cd-timeline__date svelte-1t2uafz">1999-12</span>
-            </div>
-        </div><div class="cd-timeline__block js-cd-block svelte-1t2uafz">
-            <div class="cd-timeline__img cd-timeline__img--movie js-cd-img svelte-1t2uafz">
-            </div>
-            <div class="cd-timeline__content js-cd-content svelte-1t2uafz">
-                <h2 class="svelte-1t2uafz">Abandoned ECMAScript 4</h2>
-                <p>Fourth Edition was abandoned, due to political differences concerning language complexity. Many features proposed for the Fourth Edition have been completely dropped; some were incorporated into the sixth edition.</p>
+We sent a notification to each developer of the vulnerable apps.
+If the developer has not responded or has stopped responding, we may make vulnerable app's name public on website.
 
-                <span class="cd-timeline__date svelte-1t2uafz">2000-01 - 2007-10-23</span>
-            </div>
-        </div>
-    </div>
-</section></body>
-</html>
+## June 19, 2019, 10:00
+
+We reported the vulnerability details and the list of vulnerable Korean apps to KISA and goverment agency.
+
+## June 21, 2019, 03:37 
+
+We initially contacted to security team of cloud service provider(CSP) with vulnerability details.
+Because only 3 app developers responsd to us.
+We also asked CSP to help each app developer know about the vulnerability and take action.
+
+## June 21, 2019, 16:23
+
+First response from Security Team of CSP.
+
+## June 22, 2019, 10:56
+
+We sent PoC document to CSP: one of the most popular app has critical vulnerability.
+
+## June 23 - 24, 2019 03:28
+
+Second response from security team of CSP:
+Asked us full list of vulnerable apps and draft if we have plan to publish.
+
+## June 25, 2019 01:22
+
+We sent a list of apps which are classfied as vulnerable by soFrida. (+250 Apps)
+
+## June 27, 2019 18:42
+
+Cloud 
+
+
+
+
+## June 18, 2019
+
+247 Applications has been classfied as actually vulernable (+11 Apps added)
+
+## June 25, 2019
+
+253 Applications has been classfied as actually vulernable (+6 Apps added)
