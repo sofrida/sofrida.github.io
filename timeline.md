@@ -55,7 +55,8 @@ CSP asked us to hold publishing the list of vulernable apps.
 CSP would like to reach out to their customers to fix the issue.
 
 We decided to hold off on publishing and provide more details of vulnerable point of apps to help CSP. 
-***
+
+---
 
 Analysis Timeline
 
