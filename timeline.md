@@ -23,7 +23,7 @@ permalink: /timeline/
 
 ## June 21, 2019, 03:37 
 
-- Among the developers we contacted, only 3 developers contacted us again, so we had to take the following measures.
+- Among the developers we contacted, only 3 developers contacted us again, so we had to take another measures.
 - We contacted to security team of cloud service provider(CSP) such as AWS, and asked them to help each app developer take an action.
 
 ## June 21, 2019, 16:23
@@ -50,6 +50,10 @@ permalink: /timeline/
 ## June 27, 2019 18:42
 
 - CSP asked us to hold publishing the list of vulernable apps.
-- As their request, we finally decided to to delay publishing the list until they took enough action.
+- As their request, we finally decided to delay publishing the list until they took enough action.
+
+## June 28, 2019
+
+- Our automated mobile cloud app analysis tool, "soFrida", was accepted to DEFCON Demo Labs 2019!
 
 ---
