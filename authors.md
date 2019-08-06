@@ -16,3 +16,8 @@ Seungjoo (Gabriel) Kim is a professor of Graduate School of Information Security
 ## Yeongjin Jang
 
 Yeongjin Jang is an assistant professor of Computer Science at Oregon State University. He hacks CPU, OS, iPhone, IoT devices, and anything that is operated by computers, and wish to make systems secure against the vulnerabilities discovered. He is a two-times champion of DEF CON CTF (DEFKOR and DEFKOR00T). [Biography](https://eecs.oregonstate.edu/people/jang-yeongjin)
+
+
+## Soyeon Kim
+
+Soyeon Kim is a security researcher of Samsung SDS in South Korea. She mainly doing a security assessment of Samsung IoT products. She is interested in analyzing Android apps and IOS apps using Frida.
