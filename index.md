@@ -11,9 +11,9 @@ Today(June 8, 2019 09:00 KST), we sent a notification to each developer of the v
 
 We've demonstrated our tool soFrida at DEFCON 27 DEMO LABS and downloading tool is available now at our github page
 
-Github : [https://github.com/june5079/soFrida]
+Github : [LINK](https://github.com/june5079/soFrida)
 
-Slide  : [https://www.slideshare.net/june5079/sofrida-dynamic-analysis-tool-for-mobile-apps-with-cloud-backend]
+Slide  : [LINK](https://www.slideshare.net/june5079/sofrida-dynamic-analysis-tool-for-mobile-apps-with-cloud-backend)
 
 
 <!--<div id="gh-latest"></div>-->
