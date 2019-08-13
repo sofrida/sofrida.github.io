@@ -9,7 +9,10 @@ We have analyzed 4 million Android apps and found 2,700+ vulnerable apps that ca
 
 Today(June 8, 2019 09:00 KST), we sent a notification to each developer of the vulnerable apps. We will release the list of vulnerable apps through the site after 2 weeks, and the detailed report will be available in another 30 days after the name of the app is relaesed.
 
-And, in near future, we will also release our soFrida tool, through this site.
+We've demonstrated our tool soFrida at DEFCON 27 DEMO LABS and downloading tool is available now at our github page
+
+Github : https://github.com/june5079/soFrida
+Slide  : https://www.slideshare.net/june5079/sofrida-dynamic-analysis-tool-for-mobile-apps-with-cloud-backend
 
 
 <!--<div id="gh-latest"></div>-->
