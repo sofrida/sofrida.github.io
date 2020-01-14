@@ -5,16 +5,8 @@ permalink: /timeline/
 ---
 
 <details>
-<summary>접기/펼치기 버튼</summary>
+<summary>Timeline of 2019</summary>
 <div markdown="1">
-
-|제목|내용|
-|--|--|
-|1|1|
-|2|10|
-
-</div>
-</details>
 
 ## June 7, 2019
 
@@ -67,6 +59,11 @@ permalink: /timeline/
 ## June 28, 2019
 
 - Our automated mobile cloud app analysis tool, "soFrida", was accepted to DEFCON Demo Labs 2019!
+
+</div>
+</details>
+
+
 
 ---
 
