@@ -4,6 +4,18 @@ title: Timeline
 permalink: /timeline/
 ---
 
+<details>
+<summary>접기/펼치기 버튼</summary>
+<div markdown="1">
+
+|제목|내용|
+|--|--|
+|1|1|
+|2|10|
+
+</div>
+</details>
+
 ## June 7, 2019
 
 - We had identified 2,700+ android apps which were potentially vulnerable.
@@ -57,3 +69,5 @@ permalink: /timeline/
 - Our automated mobile cloud app analysis tool, "soFrida", was accepted to DEFCON Demo Labs 2019!
 
 ---
+
+
