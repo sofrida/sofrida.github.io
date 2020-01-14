@@ -63,7 +63,21 @@ permalink: /timeline/
 </div>
 </details>
 
+---
 
+Timeline of 2020
+
+## Dec 19, 2020
+
+- soFrida+ (newer version) supports multiple target operating system (Android and iOS)
+
+## Dec 23, 2020
+
+- soFrida+ supports multiple cloud's SDK : AWS, Azure, Alibaba. 
+
+## Dec 27, 2020
+
+- soFrida+ supports generating and importing your own preset-scripts. Once you select preset-scripts, that work until you finish vulnerability analysis.
 
 ---
 
